@@ -1,5 +1,6 @@
 # Model Streamer
 
+> [!IMPORTANT]
 > **Repository move and rename notice:** On September 13, 2026, Run:ai Model Streamer was
 > renamed to Model Streamer and the repository moved from the run-ai GitHub organization to
 > [`dsx-ai-factory/model-streamer`](https://github.com/dsx-ai-factory/model-streamer).
