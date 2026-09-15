@@ -2,11 +2,11 @@
 
 > **Repository move notice:** On September 13, 2026, the Model Streamer repository moved
 > from the run-ai GitHub organization to
-> [`dsx-ai-factory/runai-model-streamer`](https://github.com/dsx-ai-factory/runai-model-streamer).
+> [`dsx-ai-factory/model-streamer`](https://github.com/dsx-ai-factory/model-streamer).
 > Existing repository URLs and standard Git operations continue to work through
 > GitHub redirects. If you maintain automation or integrations that reference
 > `run-ai/runai-model-streamer`, such as GitHub Actions, webhooks, or pinned
-> repository URLs, update them to `dsx-ai-factory/runai-model-streamer`.
+> repository URLs, update them to `dsx-ai-factory/model-streamer`.
 
 
 ## Overview
