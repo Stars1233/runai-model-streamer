@@ -1,8 +1,9 @@
 # Model Streamer
 
-> **Repository move notice:** On September 13, 2026, the Model Streamer repository moved
-> from the run-ai GitHub organization to
+> **Repository move and rename notice:** On September 13, 2026, Run:ai Model Streamer was
+> renamed to Model Streamer and the repository moved from the run-ai GitHub organization to
 > [`dsx-ai-factory/model-streamer`](https://github.com/dsx-ai-factory/model-streamer).
+> The `runai-model-streamer` PyPI packages and Python import paths are unchanged.
 > Existing repository URLs and standard Git operations continue to work through
 > GitHub redirects. If you maintain automation or integrations that reference
 > `run-ai/runai-model-streamer`, such as GitHub Actions, webhooks, or pinned
