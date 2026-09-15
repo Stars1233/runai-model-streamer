@@ -1,6 +1,6 @@
-# Run:ai Model Streamer
+# Model Streamer
 
-> **Repository move notice:** On September 13, 2026, the Run:ai Model Streamer repository moved
+> **Repository move notice:** On September 13, 2026, the Model Streamer repository moved
 > from the run-ai GitHub organization to
 > [`dsx-ai-factory/runai-model-streamer`](https://github.com/dsx-ai-factory/runai-model-streamer).
 > Existing repository URLs and standard Git operations continue to work through
@@ -10,7 +10,7 @@
 
 
 ## Overview
-The Run:ai Model Streamer is a Python SDK designed to facilitate the streaming of tensors from tensors files to GPU memory with concurrency and streaming. It provides an API for loading SafeTensors files and building AI models, allowing loading models seamlessly.
+Model Streamer is a Python SDK designed to facilitate the streaming of tensors from tensors files to GPU memory with concurrency and streaming. It provides an API for loading SafeTensors files and building AI models, allowing loading models seamlessly.
 
 For documentation click [here](docs/README.md)
 

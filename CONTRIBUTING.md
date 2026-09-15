@@ -1,6 +1,6 @@
-# Contributing to Run:ai Model Streamer
+# Contributing to Model Streamer
 
-Thank you for your interest in contributing to Run:ai Model Streamer! This document provides guidelines and instructions to help you get started with contributing to our project.
+Thank you for your interest in contributing to Model Streamer! This document provides guidelines and instructions to help you get started with contributing to our project.
 
 ## Getting Started
 ### New Contributors
@@ -9,7 +9,7 @@ We're excited to help you make your first contribution! Whether you're looking t
 Browse issues labeled `good first issue` or `help wanted` on GitHub for an easy introduction.
 
 ### Developers
-The main building blocks of Run:ai Model Streamer are documented in the [docs](docs/README.md) folder. Here are the key components:
+The main building blocks of Model Streamer are documented in the [docs](docs/README.md) folder. Here are the key components:
 - `cpp/streamer` - Core C++ streaming engine
 - `cpp/s3`, `cpp/gcs`, `cpp/azure` - Object storage backend clients
 - `cpp/cc` - C API exposed to Python via ctypes
@@ -56,7 +56,7 @@ We recommend following the [Conventional Commits](https://www.conventionalcommit
 
 #### Scopes (Optional)
 
-Common scopes for Run:ai Model Streamer:
+Common scopes for Model Streamer:
 - `streamer`
 - `s3`
 - `gcs`
